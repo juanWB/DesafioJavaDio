@@ -11,7 +11,7 @@ public class App {
         System.out.print("Digite sua idade: ");
         int idade = leitor.nextInt();
 
-        System.out.println("Olá, me chamo " + nome + " e tenho " + idade + " anos.");
+        System.out.println("Olá, me chamo " + nome + " e tenho " + idade + " anos!");
        
 
 
